@@ -7,7 +7,7 @@ This repository contains the final assignment for GCI World 2026 Spring, focusin
 The primary objective is to analyze customer data (approximately 100,000 subscribers) to predict churn probability and formulate actionable, tailored retention protocols that differentiate between high-value and budget customers. This approach is designed to maximize revenue protection while minimizing intervention costs.
 
 ## Project Deliverables
-
+*   **[View Full Analysis Notebook](./telecom_churn_analysis.ipynb)**: The core Jupyter Notebook containing all data preprocessing, EDA, model training, and evaluation.
 *   **[View Presentation Slides](./Telecom_Churn_Presentation.pdf)**: A comprehensive deck detailing our methodology, business implications, and strategic recommendations.
 *   **[View Completion Certificate](./Certificate.pdf)**: Certification of completion for the GCI World 2026 Spring program.
 
